@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/social/fcircle/index.html</loc>
+    <loc>https://www.karlyn.xyz/site/time/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/site/time/index.html</loc>
+    <loc>https://www.karlyn.xyz/site/census/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
@@ -65,7 +65,16 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/site/census/index.html</loc>
+    <loc>https://www.karlyn.xyz/social/fcircle/index.html</loc>
+    
+    <lastmod>2025-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karlyn.xyz/personal/about/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
@@ -92,15 +101,6 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/personal/about/index.html</loc>
-    
-    <lastmod>2025-03-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.karlyn.xyz/life/games/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/box/nav/index.html</loc>
+    <loc>https://www.karlyn.xyz/box/gallery/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/box/gallery/index.html</loc>
+    <loc>https://www.karlyn.xyz/box/nav/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
@@ -173,13 +173,6 @@
 
   
   <url>
-    <loc>https://www.karlyn.xyz/tags/Hot100/</loc>
-    <lastmod>2025-03-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.karlyn.xyz/tags/Markdown/</loc>
     <lastmod>2025-03-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -193,6 +186,27 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.karlyn.xyz/tags/Hot100/</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://www.karlyn.xyz/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karlyn.xyz/categories/%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2025-03-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
