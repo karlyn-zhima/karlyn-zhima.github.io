@@ -65,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/social/fcircle/index.html</loc>
-    
-    <lastmod>2025-03-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.karlyn.xyz/site/time/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
@@ -84,6 +75,15 @@
   
   <url>
     <loc>https://www.karlyn.xyz/site/census/index.html</loc>
+    
+    <lastmod>2025-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karlyn.xyz/social/fcircle/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/box/animation/index.html</loc>
+    <loc>https://www.karlyn.xyz/box/gallery/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.karlyn.xyz/box/gallery/index.html</loc>
+    <loc>https://www.karlyn.xyz/box/animation/index.html</loc>
     
     <lastmod>2025-03-18</lastmod>
     
