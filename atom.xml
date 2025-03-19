@@ -6,7 +6,7 @@
   <link href="https://www.karlyn.xyz/atom.xml" rel="self"/>
   
   <link href="https://www.karlyn.xyz/"/>
-  <updated>2025-03-19T02:46:39.410Z</updated>
+  <updated>2025-03-19T06:58:28.168Z</updated>
   <id>https://www.karlyn.xyz/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快手暑期实习一面整理</title>
+    <link href="https://www.karlyn.xyz/posts/kuaishou_shuqi.html"/>
+    <id>https://www.karlyn.xyz/posts/kuaishou_shuqi.html</id>
+    <published>2025-03-19T06:56:53.000Z</published>
+    <updated>2025-03-19T06:58:28.168Z</updated>
+    
+    
+    
+    
+    <category term="面试" scheme="https://www.karlyn.xyz/categories/%E9%9D%A2%E8%AF%95/"/>
+    
+    
+    <category term="Java" scheme="https://www.karlyn.xyz/tags/Java/"/>
+    
+    <category term="面试整理" scheme="https://www.karlyn.xyz/tags/%E9%9D%A2%E8%AF%95%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
   
   <entry>
     <title>BGP整理</title>
