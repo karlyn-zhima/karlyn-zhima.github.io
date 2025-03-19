@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.karlyn.xyz/posts/bgp_introduce.html</loc>
+    
+    <lastmod>2025-03-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.karlyn.xyz/posts/project_introduce.html</loc>
     
     <lastmod>2025-03-18</lastmod>
@@ -166,7 +175,7 @@
 
   <url>
     <loc>https://www.karlyn.xyz/</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -174,21 +183,28 @@
   
   <url>
     <loc>https://www.karlyn.xyz/tags/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.karlyn.xyz/tags/Java/</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.karlyn.xyz/tags/Hot100/</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karlyn.xyz/tags/%E5%AE%9E%E4%B9%A0/</loc>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -197,14 +213,14 @@
   
   <url>
     <loc>https://www.karlyn.xyz/categories/%E9%9D%A2%E8%AF%95/</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.karlyn.xyz/categories/%E9%93%BE%E8%A1%A8/</loc>
-    <lastmod>2025-03-18</lastmod>
+    <lastmod>2025-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
