@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.karlyn.xyz/posts/io_introduce.html</loc>
+    
+    <lastmod>2025-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.karlyn.xyz/posts/kuaishou_shuqi.html</loc>
     
     <lastmod>2025-03-20</lastmod>
@@ -225,6 +234,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.karlyn.xyz/tags/IO/</loc>
+    <lastmod>2025-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -236,6 +252,13 @@
   
   <url>
     <loc>https://www.karlyn.xyz/categories/%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2025-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karlyn.xyz/categories/%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</loc>
     <lastmod>2025-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
