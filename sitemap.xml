@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.karlyn.xyz/posts/9d04a01.html</loc>
+    
+    <lastmod>2025-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.karlyn.xyz/posts/io_introduce.html</loc>
     
     <lastmod>2025-03-21</lastmod>
@@ -259,6 +268,13 @@
   
   <url>
     <loc>https://www.karlyn.xyz/categories/%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0/</loc>
+    <lastmod>2025-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.karlyn.xyz/categories/%E7%9F%A9%E9%98%B5/</loc>
     <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
