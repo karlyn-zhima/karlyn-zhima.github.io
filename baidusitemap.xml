@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.karlyn.xyz/posts/deepseek.html</loc>
+    <lastmod>2025-03-28</lastmod>
+  </url>
+  <url>
     <loc>https://www.karlyn.xyz/posts/spiral-matrix.html</loc>
-    <lastmod>2025-03-22</lastmod>
+    <lastmod>2025-03-28</lastmod>
   </url>
   <url>
     <loc>https://www.karlyn.xyz/posts/io_introduce.html</loc>
